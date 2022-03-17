@@ -10,7 +10,7 @@ __Speaker__:  	[Ana-Maria Cretu](https://cpg.doc.ic.ac.uk/team/ana-maria/) (Impe
 __Title__:   [Geometric Deep Learning](https://www.nature.com/articles/s41467-021-27714-6)
 
 --- 
-## Past talks
+## Past talks (2022-)
 
 __Date__: 3 March 2022\
 __Speaker__:  	[Mohamed Ibrahim](https://scholar.google.com.eg/citations?user=6-6sTUUAAAAJ&hl=en) (Alan Turing Institute)\
