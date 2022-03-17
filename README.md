@@ -1,5 +1,7 @@
 # Application of Machine Learning in Social Sciences at the OII
 
+Welcome to the seminar talks on application of Machine Learning in Social Sciences taking place at the Oxford Internet Institute, University of Oxford.
+
 
 ## Current talks
 
