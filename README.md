@@ -64,6 +64,4 @@ __Date__: 5 January 2022\
 __Speaker__:  	[Lingyi Yang](https://www.maths.ox.ac.uk/people/lingyi.yang) (Mathematical Institute, University of Oxford)\
 __Title__:    Online Neural Controlled Differential Equations
 
--
-
 __Abstract__: In recent years, differential equation-inspired neural networks have become increasingly popular. Neural controlled differential equations (Neural CDEs) can be thought of as a continuous-time extension of recurrent neural networks (RNNs). This requires the construction of a continuous control path from discrete observations. For online prediction tasks, the underlying control path should be causal, something that was not considered when Neural CDEs were first conceived. In this talk, we discuss how to ensure this condition, along with other properties that the ideal control path should satisfy. Finally we show that this modification achieves state-of-the-art performance on prediction problems from the MIMIC-IV dataset.
