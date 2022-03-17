@@ -37,7 +37,7 @@ By following a distributed approach, the contributions to the ECC can be compute
 -
 
 __Date__: 26 January 2022\
-__Speaker__:  	[Ambrose Yim](https://www.maths.ox.ac.uk/people/ambrose.yim) (Dioscuri Centre in Topological Data Analysis)\
+__Speaker__:  	[Ambrose Yim](https://www.maths.ox.ac.uk/people/ambrose.yim) ([Mathematical Institute](https://www.maths.ox.ac.uk/people/ambrose.yim), University of Oxford)\
 __Title__:    How to Bin and Slice Data - a Topological Perspective
 
 __Abstract__: Persistent homology is a technique from topological data analysis that has been shown to be powerful in a variety of applications. However new ideas and algorithms are needed in order to efficiently tackle big data problems.
