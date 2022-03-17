@@ -18,5 +18,5 @@ __Title__:   Image signatures for image recognition models
 
 __Date__: 19 January 2022\
 __Speaker__:  	[Pawel Dlotko](https://dioscuri-tda.org/members/pawel.html) (Dioscuri Centre in Topological Data Analysis)\
-__Title__:   Invitation to TDA
+__Title__:   Invitation to TDA\
 __Abstract__: What is the shape of a collection of points or a sublevel set of a high dimensional function? Is there a way to explore it, understand it and apply it in a learning context? Topological Data Analysis, in particular mapper-type algorithms and persistent homology propose an answer to this question. In this talk we will briefly introduce those concepts and computational tools that can be used to compute them. We will also briefly mention some of their applications.
