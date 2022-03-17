@@ -1,4 +1,4 @@
-# Seminar talks at the Oxford Internet Institute on Application of AI in Social Science
+# Application of Machine Learning in Social Sciences at the OII
 
 
 ---
