@@ -6,7 +6,7 @@ Welcome to the seminar talks on application of Machine Learning in Social Scienc
 ## Current talks
 
 __Date__: 17 March 2022\
-__Speaker__:  	[Ana-Maria Cretu](https://cpg.doc.ic.ac.uk/team/ana-maria/) (Imperial College London)\
+__Speaker__:  	[Ana-Maria Cretu](https://scholar.google.com/citations?hl=en&user=1iDGOKUAAAAJ&view_op=list_works&sortby=pubdate) (Imperial College London)\
 __Title__:   [Interaction data are identifiable even across long periods of time](https://www.nature.com/articles/s41467-021-27714-6)
 
 __Abstract__: Fine-grained records of people’s interactions, both offline and online, are collected at large scale. These data contain sensitive information about whom we meet, talk to, and when. We demonstrate here how people’s interaction behavior is stable over long periods of time and can be used to identify individuals in anonymous datasets. Our attack learns the profile of an individual using geometric deep learning and triplet loss optimization. In a mobile phone metadata dataset of more than 40k people, it correctly identifies 52% of individuals based on their 2-hop interaction graph. We further show that the profiles learned by our method are stable over time and that 24% of people are still identifiable after 20 weeks. Our results suggest that people with well-balanced interaction graphs are more identifiable. Applying our attack to Bluetooth close-proximity networks, we show that even 1-hop interaction graphs are enough to identify people more than 26% of the time. Our results provide strong evidence that disconnected and even re-pseudonymized interaction data can be linked together making them personal data under the European Union’s General Data Protection Regulation.
