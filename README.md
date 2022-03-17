@@ -16,7 +16,7 @@ __Date__: 3 March 2022\
 __Speaker__:  	[Mohamed Ibrahim](https://scholar.google.com.eg/citations?user=6-6sTUUAAAAJ&hl=en) (Alan Turing Institute)\
 __Title__:   Image signatures for image recognition models
 
----
+--
 
 __Date__: 19 January 2022\
 __Speaker__:  	[Pawel Dlotko](https://dioscuri-tda.org/members/pawel.html) (Dioscuri Centre in Topological Data Analysis)\
