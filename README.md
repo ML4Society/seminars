@@ -1,11 +1,9 @@
-# Seminar talks at the Oxford Internet Institute - Application of AI in Social Science
+# Seminar talks at the Oxford Internet Institute on Application of AI in Social Science
 
 
 
-<u>Date</u>: 17 March 2022\
-<u>Speaker</u>:  	Ana-Maria Cretu\
-<u>Title</u>:   Geometric Deep Learning
-
-<u>Abstract</u>:
+Date: 17 March 2022\
+Speaker:  	[Ana-Maria Cretu](https://cpg.doc.ic.ac.uk/team/ana-maria/)\
+Title:   Geometric Deep Learning
 
 --- 
