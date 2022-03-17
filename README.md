@@ -30,9 +30,7 @@ __Date__: 26 January 2022\
 __Speaker__:  	[Davide Gurnari](https://dioscuri-tda.org/members/davide.html) (Dioscuri Centre in Topological Data Analysis)\
 __Title__:   Distributed algorithms for Euler Characteristic Curves (and Profiles)
 
-__Abstract__: Persistent homology is a technique from topological data analysis that has been shown to be powerful in a variety of applications. However new ideas and algorithms are needed in order to efficiently tackle big data problems.
-In this talk I will present how topological features can be extracted using one of the most famous invariants, the Euler characteristic. The Euler characteristic of a simplicial complex is the alternate sum of its Betti number, or equivalently the alternating sum of the number of its simplices of following dimensions. For a filtered complex the Euler Characteristic Curve is a function that assigns an Euler number to each filtration level.
-By following a distributed approach, the contributions to the ECC can be computed locally without having to explicitly build up the whole complex. This allows us to significatively reduce both time and memory requirements, giving us the opportunity to tackle much larger datasets compared to persistent homology. Such algorithms can be naturally extended to work in the multiparameter persistence setting, giving rise to the notion of Euler Characteristic Profiles.
+__Abstract__: In many real life applications, the analysis of large, high dimensional distributions of data is often simplified by dividing them into bins along a continuous parameter. For example, covid patient data is often divided by age bands to study how age impacts covid outcomes. However, a poor choice of bins can give a misleading illustration of the data. We discuss how topological ideas, in particular those from Morse theory and topological data analysis, can guide how data on a manifold can be discretised into bins.
 
 -
 
