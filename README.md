@@ -1,6 +1,6 @@
 # Application of Machine Learning in Social Sciences at the OII
 
-Welcome to the seminar talks on application of Machine Learning in Social Sciences taking place at the Oxford Internet Institute, University of Oxford.
+Welcome to the seminar talks on application of Machine Learning in Social Sciences taking place at the Oxford Internet Institute, University of Oxford. If you would like to present or have a suggestion please contact Dr Adam Mahdi (adam.mahdi@oii.ox.ac.uk). 
 
 
 ## Current talks
