@@ -35,7 +35,7 @@ __Abstract__: In many real life applications, the analysis of large, high dimens
 -
 
 __Date__: 26 January 2022\
-__Speaker__:  	[Ambrose Yim](https://www.maths.ox.ac.uk/people/ambrose.yim) ([Mathematical Institute](https://www.maths.ox.ac.uk/people/ambrose.yim), University of Oxford)\
+__Speaker__:  	[Ambrose Yim](https://www.maths.ox.ac.uk/people/ambrose.yim) (Mathematical Institute, University of Oxford)\
 __Title__:    How to Bin and Slice Data - a Topological Perspective
 
 __Abstract__: In many real life applications, the analysis of large, high dimensional distributions of data is often simplified by dividing them into bins along a continuous parameter. For example, covid patient data is often divided by age bands to study how age impacts covid outcomes. However, a poor choice of bins can give a misleading illustration of the data. We discuss how topological ideas, in particular those from Morse theory and topological data analysis, can guide how data on a manifold can be discretised into bins.
@@ -61,5 +61,9 @@ __Abstract__: Automated abusive language detection has predominately been approa
 -
 
 __Date__: 5 January 2022\
-__Speaker__:  	[Lingyi Yang](https://www.maths.ox.ac.uk/people/lingyi.yang) ([Mathematical Institute](https://www.maths.ox.ac.uk/people/ambrose.yim), University of Oxford)\
+__Speaker__:  	[Lingyi Yang](https://www.maths.ox.ac.uk/people/lingyi.yang) (Mathematical Institute, University of Oxford)\
 __Title__:    Online Neural Controlled Differential Equations
+
+-
+
+__Abstract__: In recent years, differential equation-inspired neural networks have become increasingly popular. Neural controlled differential equations (Neural CDEs) can be thought of as a continuous-time extension of recurrent neural networks (RNNs). This requires the construction of a continuous control path from discrete observations. For online prediction tasks, the underlying control path should be causal, something that was not considered when Neural CDEs were first conceived. In this talk, we discuss how to ensure this condition, along with other properties that the ideal control path should satisfy. Finally we show that this modification achieves state-of-the-art performance on prediction problems from the MIMIC-IV dataset.
