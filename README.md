@@ -39,3 +39,9 @@ __Speaker__:  	[Ambrose Yim](https://www.maths.ox.ac.uk/people/ambrose.yim) ([Ma
 __Title__:    How to Bin and Slice Data - a Topological Perspective
 
 __Abstract__: In many real life applications, the analysis of large, high dimensional distributions of data is often simplified by dividing them into bins along a continuous parameter. For example, covid patient data is often divided by age bands to study how age impacts covid outcomes. However, a poor choice of bins can give a misleading illustration of the data. We discuss how topological ideas, in particular those from Morse theory and topological data analysis, can guide how data on a manifold can be discretised into bins.
+
+-
+
+__Date__: 26 January 2022\
+__Speaker__:  	[Lingyi Yang](https://www.maths.ox.ac.uk/people/lingyi.yang) ([Mathematical Institute](https://www.maths.ox.ac.uk/people/ambrose.yim), University of Oxford)\
+__Title__:    Online Neural Controlled Differential Equations
