@@ -43,6 +43,16 @@ __Abstract__: In many real life applications, the analysis of large, high dimens
 
 -
 
+__Date__: 12 January 2022\
+__Speaker__:  	[Dani Kiyasseh](https://danikiyasseh.github.io/) (Caltech)\
+__Title__:    Active Learning - Motivation, Core-elements and SoQal
+
+__Abstract__: Supervised learning has been the driving force behind many of today’s machine learning algorithms. The success of this approach, however, typically necessitates the presence of abundant labelled data, a resource which can be non-trivial to collect. In contrast, an increasing number of settings is characterized by both scarce labelled data and abundant unlabelled data. One way to leverage such data is via active learning, a paradigm that attempts to minimize the burden of providing annotations while designing generalizable algorithms. In this talk, I will first outline the motivation for active learning and discuss its four core elements (train, acquire, label, and augment). I will then introduce a recently-proposed framework known as SoQal which, in contrast to previous work, addresses two of active learning’s elements simultaneously (acquire and label). I will conclude the talk by reflecting on the utility of active learning and providing some guiding principles.
+
+
+
+-
+
 __Date__: 5 January 2022\
 __Speaker__:  	[Lingyi Yang](https://www.maths.ox.ac.uk/people/lingyi.yang) ([Mathematical Institute](https://www.maths.ox.ac.uk/people/ambrose.yim), University of Oxford)\
 __Title__:    Online Neural Controlled Differential Equations
