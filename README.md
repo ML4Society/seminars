@@ -27,7 +27,7 @@ many of the state-of-the-art methods and simultaneously
 b) requires orders of magnitude less FLOPS, power
 and memory footprint. The pretrained model can be as
 small as 44.2 KB in size. ImageSig shows unprecedented
-performance on hardware such as Raspberry Pi and Jetsonnano.
+performance on hardware such as Raspberry Pi and Jetson nano.
 ImageSig treats images as streams with multiple
 channels. These streams are parameterized by spatial directions.
 We contribute to the functionality of signature and
