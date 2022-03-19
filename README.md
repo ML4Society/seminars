@@ -18,6 +18,29 @@ __Date__: 3 March 2022\
 __Speaker__:  	[Mohamed Ibrahim](https://scholar.google.com.eg/citations?user=6-6sTUUAAAAJ&hl=en) (Alan Turing Institute)\
 __Title__:   Image signatures for image recognition models
 
+__Abstract__: This paper introduces a new lightweight method for image
+recognition. ImageSig is based on computing signatures
+and does not require a convolutional structure or an
+attention-based encoder. It is striking to the authors that it
+achieves: a) an accuracy for 64 X 64 RGB images that exceeds
+many of the state-of-the-art methods and simultaneously
+b) requires orders of magnitude less FLOPS, power
+and memory footprint. The pretrained model can be as
+small as 44.2 KB in size. ImageSig shows unprecedented
+performance on hardware such as Raspberry Pi and Jetsonnano.
+ImageSig treats images as streams with multiple
+channels. These streams are parameterized by spatial directions.
+We contribute to the functionality of signature and
+rough path theory to stream-like data and vision tasks on
+static images beyond temporal streams. With very few parameters
+and small size models, the key advantage is that
+one could have many of these ”detectors” assembled on the
+same chip; moreover, the feature acquisition can be performed
+once and shared between different models of different
+tasks - further accelerating the process. This contributes
+to energy efficiency and the advancements of embedded AI
+at the edge.
+
 -
 
 __Date__: 19 January 2022\
