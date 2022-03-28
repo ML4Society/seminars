@@ -15,7 +15,7 @@ __Abstract__: Fine-grained records of people’s interactions, both offline and 
 ## Past talks (2022-)
 
 __Date__: 3 March 2022\
-__Speaker__:  	[Mohamed Ibrahim](https://scholar.google.com.eg/citations?user=6-6sTUUAAAAJ&hl=en) (Alan Turing Institute)\
+__Speaker__:  	[Mohamed Ibrahim](https://scholar.google.com.eg/citations?user=6-6sTUUAAAAJ&hl=en) (Alan Turing Institute, London, UK)\
 __Title__:   Image signatures for image recognition models
 
 __Abstract__: This paper introduces a new lightweight method for image
